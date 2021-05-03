@@ -126,7 +126,7 @@ def dictionary_words(choice):
 
 def menu():
     init()
-    print(Fore.CYAN + f"\nWelcome to kremala, try to find the word!!!" + Fore.RESET)
+    print(Fore.CYAN + f"\nWelcome to HangMan, try to find the word!!!" + Fore.RESET)
     print(Fore.BLUE + """
 Select category
 
